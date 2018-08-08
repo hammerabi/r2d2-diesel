@@ -1,5 +1,5 @@
 [package]
-name = "r2d2-diesel-mysql"
+name = "r2d2-diesel"
 version = "0.12.0"
 authors = ["Sean Griffin <sean@seantheprogrammer.com>"]
 license = "MIT"
